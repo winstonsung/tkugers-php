@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"user-not-logged-in": "Not logged in",
+	"user-log-in-or-create-account": "Log in / create account",
+	"user-log-in": "Log in",
+	"user-log-in-to-another-account": "Log in to another account",
+	"user-log-in-recover-account-link-text": "Forgot your password?",
+	"user-create-account": "Create account",
+	"user-log-in-no-account": "Don't have an account?",
+	"user-log-in-join-project": "Join {{int:site-name}}",
+	"user-log-in-help-link-url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Logging_in",
+	"user-log-in-help-link-text": "Help with logging in",
+	"user-log-out": "Log out"
+}

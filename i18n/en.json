@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"site-name": "{{SITENAME}}",
+	"page-title": "$1 - {{int:site-name}}",
+	"page-title-view-mainpage": "{{int:site-name}}"
+}
