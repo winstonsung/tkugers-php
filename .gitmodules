@@ -1,0 +1,312 @@
+[submodule "extensions/AbuseFilter"]
+	path = extensions/AbuseFilter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbuseFilter
+	branch = master
+[submodule "extensions/CategoryTree"]
+	path = extensions/CategoryTree
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
+	branch = master
+[submodule "extensions/Cite"]
+	path = extensions/Cite
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
+	branch = master
+[submodule "extensions/CiteThisPage"]
+	path = extensions/CiteThisPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteThisPage
+	branch = master
+[submodule "extensions/CodeEditor"]
+	path = extensions/CodeEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeEditor
+	branch = master
+[submodule "extensions/ConfirmEdit"]
+	path = extensions/ConfirmEdit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit
+	branch = master
+[submodule "extensions/DiscussionTools"]
+	path = extensions/DiscussionTools
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionTools
+	branch = master
+[submodule "extensions/Echo"]
+	path = extensions/Echo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
+	branch = master
+[submodule "extensions/Gadgets"]
+	path = extensions/Gadgets
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
+	branch = master
+[submodule "extensions/ImageMap"]
+	path = extensions/ImageMap
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
+	branch = master
+[submodule "extensions/InputBox"]
+	path = extensions/InputBox
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InputBox
+	branch = master
+[submodule "extensions/Interwiki"]
+	path = extensions/Interwiki
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
+	branch = master
+[submodule "extensions/Linter"]
+	path = extensions/Linter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Linter
+	branch = master
+[submodule "extensions/LoginNotify"]
+	path = extensions/LoginNotify
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LoginNotify
+	branch = master
+[submodule "extensions/Math"]
+	path = extensions/Math
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Math
+	branch = master
+[submodule "extensions/MultimediaViewer"]
+	path = extensions/MultimediaViewer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
+	branch = master
+[submodule "extensions/Nuke"]
+	path = extensions/Nuke
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
+	branch = master
+[submodule "extensions/OATHAuth"]
+	path = extensions/OATHAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OATHAuth
+	branch = master
+[submodule "extensions/PageImages"]
+	path = extensions/PageImages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageImages
+	branch = master
+[submodule "extensions/ParserFunctions"]
+	path = extensions/ParserFunctions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFunctions
+	branch = master
+[submodule "extensions/PdfHandler"]
+	path = extensions/PdfHandler
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
+	branch = master
+[submodule "extensions/Poem"]
+	path = extensions/Poem
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poem
+	branch = master
+[submodule "extensions/ReplaceText"]
+	path = extensions/ReplaceText
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
+	branch = master
+[submodule "extensions/Scribunto"]
+	path = extensions/Scribunto
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
+	branch = master
+[submodule "extensions/SecureLinkFixer"]
+	path = extensions/SecureLinkFixer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureLinkFixer
+	branch = master
+[submodule "extensions/SpamBlacklist"]
+	path = extensions/SpamBlacklist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamBlacklist
+	branch = master
+[submodule "extensions/SyntaxHighlight_GeSHi"]
+	path = extensions/SyntaxHighlight_GeSHi
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi
+	branch = master
+[submodule "extensions/TemplateData"]
+	path = extensions/TemplateData
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
+	branch = master
+[submodule "extensions/TextExtracts"]
+	path = extensions/TextExtracts
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TextExtracts
+	branch = master
+[submodule "extensions/Thanks"]
+	path = extensions/Thanks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Thanks
+	branch = master
+[submodule "extensions/TitleBlacklist"]
+	path = extensions/TitleBlacklist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleBlacklist
+	branch = master
+[submodule "extensions/UniversalCourseRecommendation"]
+	path = extensions/UniversalCourseRecommendation
+	url = https://github.com/WinstonSung/mediawiki-extensions-UniversalCourseRecommendation.git
+	branch = master
+[submodule "extensions/VisualEditor"]
+	path = extensions/VisualEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
+	branch = master
+[submodule "extensions/WikiEditor"]
+	path = extensions/WikiEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiEditor
+	branch = master
+[submodule "skins/MinervaNeue"]
+	path = skins/MinervaNeue
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue
+	branch = master
+[submodule "skins/MonoBook"]
+	path = skins/MonoBook
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook
+	branch = master
+[submodule "skins/Timeless"]
+	path = skins/Timeless
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless
+	branch = master
+[submodule "skins/Vector"]
+	path = skins/Vector
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
+	branch = master
+[submodule "vendor"]
+	path = vendor
+	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
+	branch = master
+[submodule "submodule.extensions/AbuseFilter.path"]
+	path = extensions/AbuseFilter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/AbuseFilter
+	branch = master
+[submodule "submodule.extensions/CategoryTree.path"]
+	path = extensions/CategoryTree
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CategoryTree
+	branch = master
+[submodule "submodule.extensions/Cite.path"]
+	path = extensions/Cite
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Cite
+	branch = master
+[submodule "submodule.extensions/CiteThisPage.path"]
+	path = extensions/CiteThisPage
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CiteThisPage
+	branch = master
+[submodule "submodule.extensions/CodeEditor.path"]
+	path = extensions/CodeEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/CodeEditor
+	branch = master
+[submodule "submodule.extensions/ConfirmEdit.path"]
+	path = extensions/ConfirmEdit
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ConfirmEdit
+	branch = master
+[submodule "submodule.extensions/DiscussionTools.path"]
+	path = extensions/DiscussionTools
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/DiscussionTools
+	branch = master
+[submodule "submodule.extensions/Echo.path"]
+	path = extensions/Echo
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Echo
+	branch = master
+[submodule "submodule.extensions/Gadgets.path"]
+	path = extensions/Gadgets
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Gadgets
+	branch = master
+[submodule "submodule.extensions/ImageMap.path"]
+	path = extensions/ImageMap
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ImageMap
+	branch = master
+[submodule "submodule.extensions/InputBox.path"]
+	path = extensions/InputBox
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/InputBox
+	branch = master
+[submodule "submodule.extensions/Interwiki.path"]
+	path = extensions/Interwiki
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Interwiki
+	branch = master
+[submodule "submodule.extensions/Linter.path"]
+	path = extensions/Linter
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Linter
+	branch = master
+[submodule "submodule.extensions/LoginNotify.path"]
+	path = extensions/LoginNotify
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/LoginNotify
+	branch = master
+[submodule "submodule.extensions/Math.path"]
+	path = extensions/Math
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Math
+	branch = master
+[submodule "submodule.extensions/MultimediaViewer.path"]
+	path = extensions/MultimediaViewer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/MultimediaViewer
+	branch = master
+[submodule "submodule.extensions/Nuke.path"]
+	path = extensions/Nuke
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Nuke
+	branch = master
+[submodule "submodule.extensions/OATHAuth.path"]
+	path = extensions/OATHAuth
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/OATHAuth
+	branch = master
+[submodule "submodule.extensions/PageImages.path"]
+	path = extensions/PageImages
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PageImages
+	branch = master
+[submodule "submodule.extensions/ParserFunctions.path"]
+	path = extensions/ParserFunctions
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ParserFunctions
+	branch = master
+[submodule "submodule.extensions/PdfHandler.path"]
+	path = extensions/PdfHandler
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/PdfHandler
+	branch = master
+[submodule "submodule.extensions/Poem.path"]
+	path = extensions/Poem
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Poem
+	branch = master
+[submodule "submodule.extensions/ReplaceText.path"]
+	path = extensions/ReplaceText
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/ReplaceText
+	branch = master
+[submodule "submodule.extensions/Scribunto.path"]
+	path = extensions/Scribunto
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Scribunto
+	branch = master
+[submodule "submodule.extensions/SecureLinkFixer.path"]
+	path = extensions/SecureLinkFixer
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SecureLinkFixer
+	branch = master
+[submodule "submodule.extensions/SpamBlacklist.path"]
+	path = extensions/SpamBlacklist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SpamBlacklist
+	branch = master
+[submodule "submodule.extensions/SyntaxHighlight_GeSHi.path"]
+	path = extensions/SyntaxHighlight_GeSHi
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/SyntaxHighlight_GeSHi
+	branch = master
+[submodule "submodule.extensions/TemplateData.path"]
+	path = extensions/TemplateData
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TemplateData
+	branch = master
+[submodule "submodule.extensions/TextExtracts.path"]
+	path = extensions/TextExtracts
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TextExtracts
+	branch = master
+[submodule "submodule.extensions/Thanks.path"]
+	path = extensions/Thanks
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/Thanks
+	branch = master
+[submodule "submodule.extensions/TitleBlacklist.path"]
+	path = extensions/TitleBlacklist
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/TitleBlacklist
+	branch = master
+[submodule "submodule.extensions/UniversalCourseRecommendation.path"]
+	path = extensions/UniversalCourseRecommendation
+	url = https://github.com/WinstonSung/mediawiki-extensions-UniversalCourseRecommendation.git
+	branch = master
+[submodule "submodule.extensions/VisualEditor.path"]
+	path = extensions/VisualEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/VisualEditor
+	branch = master
+[submodule "submodule.extensions/WikiEditor.path"]
+	path = extensions/WikiEditor
+	url = https://gerrit.wikimedia.org/r/mediawiki/extensions/WikiEditor
+	branch = master
+[submodule "submodule.skins/MinervaNeue.path"]
+	path = skins/MinervaNeue
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MinervaNeue
+	branch = master
+[submodule "submodule.skins/MonoBook.path"]
+	path = skins/MonoBook
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/MonoBook
+	branch = master
+[submodule "submodule.skins/Timeless.path"]
+	path = skins/Timeless
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Timeless
+	branch = master
+[submodule "submodule.skins/Vector.path"]
+	path = skins/Vector
+	url = https://gerrit.wikimedia.org/r/mediawiki/skins/Vector
+	branch = master
+[submodule "submodule.vendor.path"]
+	path = vendor
+	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
+	branch = master
